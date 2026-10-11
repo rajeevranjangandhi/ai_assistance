@@ -1,11 +1,8 @@
+streamlit
 langchain
 langchain-core
-langchain-community
-langchain-openai
-langchain-ollama
-langchainhub
-tavily-python
+langchain-tavily
+langchain-groq
 python-dotenv
 requests
 certifi
-streamlit
